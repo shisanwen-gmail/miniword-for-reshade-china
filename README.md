@@ -17,7 +17,7 @@ Miniword for ReShade 是一个与 ReShade 紧密相关的项目。ReShade 是一
 
 ## 安装步骤
 ### 简便安装方式。
-- [迷你 reshade-installer](https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8)。
+- [迷你 reshade-installer](https://github.com/shisanwen-gmail/MiniWorld_Reshade)。
 
 ### 具体安装流程
 1. **克隆项目代码**：使用以下命令将项目克隆到本地：
@@ -67,7 +67,7 @@ git push origin new-feature
 2. **文件收集**: @LingMowen
 3. **技术提供**: Qichee @是史三问呀 天梦零惜 Ty·小年
 4. **预设提供**: 天星 大喵工作室 YiRixc RicoJuly11
-5. **安装器**:   @是史三问呀 [项目链接](https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8)。
+5. **安装器**:   @是史三问呀 [项目链接](https://github.com/shisanwen-gmail/MiniWorld_Reshade)。
 
 ## 许可证
 本项目采用MIT许可证。这意味着你可以自由地对项目代码进行修改，将修改后的版本分发给他人，并且可以将项目用于私人用途。但请确保在使用过程中遵循相关法律法规和道德准则。
